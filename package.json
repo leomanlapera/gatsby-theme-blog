@@ -1,0 +1,37 @@
+{
+  "name": "@leomanlapera/gatsby-theme-blog",
+  "version": "1.0.2",
+  "main": "index.js",
+  "author": "leomanlapera <leomanlapera@gmail.com> (@leomanlapera)",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "markdown"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "devDependencies": {
+    "gatsby": "^2.18.18",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.18.18",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "@mdx-js/react": "^1.5.3",
+    "gatsby-source-filesystem": "^2.1.43",
+    "gatsby-theme-ui": "^0.2.0",
+    "gatsby-transformer-remark": "^2.6.45",
+    "theme-ui": "^0.2.52",
+    "react-helmet": "^5.2.1"
+  }
+}
