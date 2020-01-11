@@ -1,6 +1,6 @@
 {
   "name": "@leomanlapera/gatsby-theme-blog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "author": "leomanlapera <leomanlapera@gmail.com> (@leomanlapera)",
   "license": "MIT",
@@ -33,5 +33,10 @@
     "gatsby-transformer-remark": "^2.6.45",
     "theme-ui": "^0.2.52",
     "react-helmet": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/leomanlapera/gatsby-theme-blog"
+  },
+  "homepage": "https://github.com/leomanlapera/gatsby-theme-blog/blob/master/README.md"
 }

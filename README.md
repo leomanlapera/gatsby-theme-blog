@@ -3,8 +3,8 @@
 ## Quick Start
 
 ```shell
-mkdir my-site
-cd my-site
+mkdir my-blog
+cd my-blog
 yarn init
 # install @leomanlapera/gatsby-theme-blog and it's dependencies
 yarn add gatsby react react-dom @leomanlapera/gatsby-theme-blog
